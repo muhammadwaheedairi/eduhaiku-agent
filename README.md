@@ -19,7 +19,7 @@ A command-line AI agent that detects the topic of any educational question and r
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/eduhaiku-agent.git
+git clone https://github.com/muhammadwaheedairi/eduhaiku-agent.git
 cd eduhaiku-agent
 ````
 
